@@ -45,6 +45,6 @@ Evolução do projeto anterior, agora com **RAG (Retrieval-Augmented Generation)
 Simular um assistente que responde com base em documentos fornecidos, usando arquitetura RAG.
 
 ---
-![Chat 1](/images/exemplo_chat.PNG)
+![Chat 1](images/exemplo_chat.PNG)
 
 ![Chat 2 com RAG](images/exemplo_chat_rag.PNG)
